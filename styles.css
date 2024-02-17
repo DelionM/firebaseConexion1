@@ -1,0 +1,15 @@
+body{
+    background-color: #c4a2ff;
+    
+}
+
+.card{
+   background-color:  #5045ec;
+   font-size: small;
+}
+
+
+.medium-size {
+    width: 200px; 
+    height: 200px; 
+  }
